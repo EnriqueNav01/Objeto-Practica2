@@ -1,0 +1,24 @@
+# Blender3D MTL File: Golden Banana.blend
+# Material Count: 2
+newmtl Material.085_Logo.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.796875 0.796875 0.796875
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Logo.png
+
+
+newmtl Material.083_Gold.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.162500 0.078125 0.125000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Gold.png
+
+
